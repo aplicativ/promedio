@@ -1,0 +1,22 @@
+ public class promedio{
+   private float n1;
+   private float n2;
+
+ public promedio(float n1,float n2){
+    this.n1=n1;
+    this.n2=n2;
+}
+public void setn1(float n1){
+n1=n1;
+}
+public void setn2(float n2){
+n2=n2;
+
+}
+
+public get n1(){
+ return n1;
+}
+public get n2(){
+ return n1;
+}

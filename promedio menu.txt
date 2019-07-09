@@ -1,0 +1,27 @@
+ public class Aplicativo{
+
+ public static void main(float[] args){
+  float(n1,n2);
+  float acu=1;
+  float notas=0;
+
+  Scanner lee=new Scanner(System.in);
+  System.out.println("ingrese nota de promedio);
+  n1=lee.nextfloat();
+
+ while(acum<=nota){
+
+System.out.println("ingrese la n1 :"+acum);
+foat n1=lee.nextfloat();
+
+System.out.println("ingrese la n2 :"+acum);
+foat n2=lee.nextfloat();
+notas+=n;
+acu++;
+}
+float promedio = notas;
+
+promedio obj=newpromedio(n1+n2);
+obj.imprimirDatos();
+}
+}

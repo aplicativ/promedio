@@ -1,0 +1,9 @@
+public class void.imprimirDatos(){
+System.out.println(get n1,();
+System.out.println(get n2();
+}
+
+ 
+
+
+  
